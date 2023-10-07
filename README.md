@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FadyFathey/FadyFathey/output/snake.svg" alt="Snake animation" />
+
 
 ###
