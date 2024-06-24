@@ -1,70 +1,40 @@
-<h2 align="left">Hi 👋! My name is fady fathey and I'm a Front-End Developer</h2>
- <p>Dynamic Front-End Developer with experience crafting innovative web experiences.
-Proficient in HTML, CSS, and JavaScript, specializing in ReactJS. Proven ability to overcome challenges and
-contribute effectively to dynamic development teams. Familiar with Node.js and Express.js.
-</p>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-###
+<h3 align="center">
+  Welcome to Fady Fathey's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FadyFathey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FadyFathey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-###
+- 🏢 I'm a Frontend Developer.
+- 👨‍💻 I am constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my portfolio at [https://portfolio-fady-fathey.vercel.app](https://portfolio-fady-fathey.vercel.app/) to see some of the projects I've worked on.
 
-###
+### Connect with Me :
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-</div>
+<a href="https://www.linkedin.com/in/fady-fathey-maher-72918916b/" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Fathey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/FadyFathey" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Fathey-0077B5?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
-###
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=06B6D4)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 
-<div align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FadyFathey&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
 
-<a href="mailto:fadyfathymaher3@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</a>
-
-  <a href="https://www.linkedin.com/in/fady-fathey-maher-72918916b/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</a>
-
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
-
-###
