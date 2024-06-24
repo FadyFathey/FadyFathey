@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is fady fathey and I'm a Front-End Developer</h2>
- <p>Dynamic Front-End Developer with over 6 months of hands-on experience crafting innovative web experiences.
+ <p>Dynamic Front-End Developer with experience crafting innovative web experiences.
 Proficient in HTML, CSS, and JavaScript, specializing in ReactJS. Proven ability to overcome challenges and
 contribute effectively to dynamic development teams. Familiar with Node.js and Express.js.
 </p>
@@ -62,6 +62,7 @@ contribute effectively to dynamic development teams. Familiar with Node.js and E
 ###
 
 <br clear="both">
+
 
 
 ###
